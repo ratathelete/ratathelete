@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Gajerla+Praneeth;B.Tech+IT+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;Java+%2B+DSA+Learner+%E2%9A%A1;Building+Projects+That+Solve+Real+Problems+%F0%9F%9A%80"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Gajerlapraneeth&label=Profile%20Views&color=38bdf8&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Gajerlapraneeth?label=Followers&style=for-the-badge&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/Gajerlapraneeth?label=Stars&style=for-the-badge&color=ec4899"/>
-
 </div>
 
 ---
@@ -19,8 +13,6 @@
 ## ✨ About Me
 
 </div>
-
-<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name: Gajerla Praneeth
@@ -37,8 +29,6 @@ goal: To become a skilled full-stack developer
 * 🧠 Improving daily in **Java, DSA, DBMS, OS**
 * 🔥 Interested in **clean UI, real-world projects, and problem solving**
 * ✨ Belief: **Learn. Build. Improve. Repeat.**
-
-<br clear="right"/>
 
 ---
 
@@ -178,42 +168,6 @@ A clean personal portfolio website to showcase skills, projects, certifications,
 <br><br>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajerlapraneeth&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=38BDF8&text_color=ffffff"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gajerlapraneeth&bg_color=0D1117&color=38BDF8&line=EC4899&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Current Focus
-
-</div>
-
-```txt
-MERN Stack Development  █████████░░  80%
-Java Programming        ████████░░░  75%
-Data Structures         ███████░░░░  65%
-Database Management     ████████░░░  75%
-Operating Systems       ██████░░░░░  60%
-```
-
----
-
-<div align="center">
-
-## 💡 Developer Mindset
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Code+with+purpose.;Build+with+passion.;Learn+from+every+bug.;Improve+every+single+day."/>
 
 </div>
 
